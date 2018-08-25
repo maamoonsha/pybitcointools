@@ -1,3 +1,11 @@
+### Please note: 
+In this fork I've just changed the module name, **from 'bitcoin' to 'pybitcointools'**. Previously it interfered with my bitcoin installation (*pip install bitcoin* and *pip install python-bitcoinlib*). 
+
+(See also https://github.com/vbuterin/pybitcointools/issues/153).
+
+Install this fork with: 
+*pip install git+https://github.com/robermann/pybitcointools*
+
 # Pybitcointools, Python library for Bitcoin signatures and transactions
 
 ### Advantages:
